@@ -1,1 +1,1 @@
-console.log("Kenzryu Games");
+console.log("Kenzryu Games Website Loaded");
