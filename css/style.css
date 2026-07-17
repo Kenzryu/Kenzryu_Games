@@ -422,23 +422,25 @@ height:390px;
 
 .gallery{
     display:grid;
-    grid-template-columns:repeat(3,1fr);
-    gap:25px;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:20px;
     margin-top:30px;
 }
 
 .gallery img{
     width:100%;
-    height:220px;
-    object-fit:cover;
+    height:auto;
+    display:block;
 
     border-radius:15px;
-
-    cursor:pointer;
+    box-shadow:0 10px 30px rgba(0,0,0,.3);
 
     transition:.3s;
+}
 
-    box-shadow:0 10px 30px rgba(0,0,0,.3);
+.gallery img:hover{
+    transform:scale(1.03);
+}
 }
 
 .gallery img:hover{
