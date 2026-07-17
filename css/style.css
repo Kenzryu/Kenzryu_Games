@@ -519,8 +519,9 @@ height:390px;
     background:#0f7cff;
 }
 
-.mirror{
+.mediafire{
     background:#6c63ff;
+   
 
    @media (max-width:768px){
 
