@@ -539,4 +539,43 @@ height:390px;
     margin-bottom:40px;
 }
 
+.download-guide{
+    margin-top:40px;
+}
 
+.download-guide h3{
+    color:#3da5ff;
+    margin-bottom:20px;
+}
+
+.guide-item{
+    background:#161d2d;
+    border:1px solid rgba(255,255,255,.08);
+    border-radius:15px;
+    padding:20px;
+    margin-bottom:20px;
+}
+
+.guide-item h4{
+    margin-bottom:8px;
+}
+
+.guide-item p{
+    color:#b8c5d6;
+    margin-bottom:15px;
+}
+
+.btn-guide{
+    display:inline-block;
+    background:#3da5ff;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 18px;
+    border-radius:10px;
+    font-weight:600;
+    transition:.3s;
+}
+
+.btn-guide:hover{
+    background:#2b8de6;
+}
