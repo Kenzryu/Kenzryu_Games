@@ -1,6 +1,12 @@
-/* =========================
-   KENZRYU GAMES
-   ========================= */
+/* ===========================
+   Google Font
+=========================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+/* ===========================
+   Reset
+=========================== */
 
 *{
     margin:0;
@@ -13,29 +19,39 @@ html{
 }
 
 body{
+
     font-family:'Poppins',sans-serif;
-    background:#08111f;
-    color:#fff;
-    line-height:1.6;
+    background:#071321;
+    color:#ffffff;
+    line-height:1.7;
+
 }
 
-/* =========================
-   NAVBAR
-   ========================= */
+/* ===========================
+   Navbar
+=========================== */
 
 header{
-    width:100%;
+
     position:fixed;
+    width:100%;
     top:0;
     left:0;
-    z-index:999;
-    background:rgba(8,17,31,.75);
+
+    background:rgba(8,18,34,.90);
+
     backdrop-filter:blur(12px);
+
+    z-index:999;
+
+    border-bottom:1px solid rgba(255,255,255,.08);
+
 }
 
 .navbar{
 
-    max-width:1200px;
+    width:90%;
+    max-width:1300px;
 
     margin:auto;
 
@@ -45,19 +61,19 @@ header{
 
     align-items:center;
 
-    padding:18px 25px;
+    padding:22px 0;
 
 }
 
 .logo a{
 
-    text-decoration:none;
-
     color:#fff;
 
-    font-size:26px;
+    text-decoration:none;
 
-    font-weight:700;
+    font-size:30px;
+
+    font-weight:800;
 
 }
 
@@ -65,9 +81,9 @@ header{
 
     display:flex;
 
-    gap:30px;
-
     list-style:none;
+
+    gap:35px;
 
 }
 
@@ -77,23 +93,177 @@ header{
 
     text-decoration:none;
 
+    font-weight:500;
+
     transition:.3s;
 
 }
 
 .nav-menu a:hover{
 
-    color:#31c4ff;
+    color:#33b8ff;
 
 }
 
-/* =========================
-   HERO
-   ========================= */
+/* ===========================
+   Hero
+=========================== */
 
 .hero{
 
     min-height:100vh;
+
+    width:90%;
+
+    max-width:1300px;
+
+    margin:auto;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    gap:70px;
+
+}
+
+.hero-left{
+
+    flex:1;
+
+}
+
+.hero-right{
+
+    flex:1;
+
+    display:flex;
+
+    justify-content:center;
+
+}
+
+.game-tag{
+
+    display:inline-block;
+
+    padding:10px 22px;
+
+    background:#17395f;
+
+    color:#55d0ff;
+
+    border-radius:40px;
+
+    margin-bottom:25px;
+
+}
+
+.hero h1{
+
+    font-size:72px;
+
+    line-height:1.1;
+
+    margin-bottom:15px;
+
+}
+
+.hero h3{
+
+    color:#47bfff;
+
+    font-size:30px;
+
+    margin-bottom:25px;
+
+}
+
+.hero-text{
+
+    color:#cdd9e5;
+
+    max-width:600px;
+
+    margin-bottom:40px;
+
+}
+
+/* ===========================
+   Buttons
+=========================== */
+
+.download-buttons{
+
+    display:flex;
+
+    gap:20px;
+
+}
+
+.btn-primary{
+
+    text-decoration:none;
+
+    background:#1da1ff;
+
+    color:white;
+
+    padding:18px 38px;
+
+    border-radius:50px;
+
+    font-weight:700;
+
+    transition:.3s;
+
+}
+
+.btn-primary:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 12px 35px rgba(0,170,255,.35);
+
+}
+
+.btn-secondary{
+
+    text-decoration:none;
+
+    border:2px solid #28a7ff;
+
+    color:white;
+
+    padding:18px 38px;
+
+    border-radius:50px;
+
+    transition:.3s;
+
+}
+
+.btn-secondary:hover{
+
+    background:#28a7ff;
+
+}
+
+/* ===========================
+   Cover
+=========================== */
+
+.game-cover{
+
+    width:360px;
+
+    height:500px;
+
+    background:linear-gradient(135deg,#1c2d55,#2b83ff);
+
+    border-radius:25px;
 
     display:flex;
 
@@ -101,286 +271,121 @@ header{
 
     align-items:center;
 
-    text-align:center;
+    font-size:30px;
 
-    padding:120px 20px;
+    font-weight:bold;
 
-    background:
-
-    radial-gradient(circle at top,#1d4ed8,#08111f 70%);
+    box-shadow:0 20px 60px rgba(0,0,0,.45);
 
 }
 
-.hero-content{
+/* ===========================
+   Info
+=========================== */
 
-    max-width:800px;
+.game-info{
 
-}
-
-.hero-badge{
-
-    display:inline-block;
-
-    padding:8px 18px;
-
-    background:#1b2f4b;
-
-    border-radius:50px;
-
-    color:#6fd3ff;
-
-    margin-bottom:25px;
-
-}
-
-.hero h1{
-
-    font-size:64px;
-
-    line-height:1.1;
-
-    margin-bottom:25px;
-
-}
-
-.hero p{
-
-    color:#b8c4d6;
-
-    font-size:20px;
-
-    margin-bottom:35px;
-
-}
-
-.hero-buttons{
-
-    display:flex;
-
-    justify-content:center;
-
-    gap:20px;
-
-    flex-wrap:wrap;
-
-}
-
-.btn-primary,
-.btn-secondary{
-
-    text-decoration:none;
-
-    padding:15px 35px;
-
-    border-radius:50px;
-
-    transition:.3s;
-
-    font-weight:600;
-
-}
-
-.btn-primary{
-
-    background:#2ba8ff;
-
-    color:#fff;
-
-}
-
-.btn-primary:hover{
-
-    transform:translateY(-4px);
-
-    box-shadow:0 0 25px #2ba8ff;
-
-}
-
-.btn-secondary{
-
-    border:2px solid #2ba8ff;
-
-    color:white;
-
-}
-
-.btn-secondary:hover{
-
-    background:#2ba8ff;
-
-}
-
-/* =========================
-   SECTION
-   ========================= */
-
-section{
-
-    padding:100px 20px;
-
-}
-
-.section-title{
-
-    text-align:center;
-
-    margin-bottom:60px;
-
-}
-
-.section-title h2{
-
-    font-size:42px;
-
-}
-
-.section-title p{
-
-    color:#9fb1c8;
-
-}
-
-/* =========================
-   CARDS
-   ========================= */
-
-.cards{
-
-    display:grid;
-
-    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
-
-    gap:30px;
+    width:90%;
 
     max-width:1200px;
 
-    margin:auto;
+    margin:80px auto;
 
 }
 
-.card{
+.info-card{
 
-    background:#121f33;
+    background:#0f1f33;
 
-    border-radius:20px;
+    border-radius:25px;
 
-    padding:25px;
-
-    transition:.35s;
+    padding:40px;
 
 }
 
-.card:hover{
+.info-card h2{
 
-    transform:translateY(-10px);
+    margin-bottom:25px;
 
-    box-shadow:0 0 30px rgba(43,168,255,.35);
+    color:#4bc6ff;
 
 }
 
-.card-image{
+table{
 
-    height:190px;
+    width:100%;
 
-    background:linear-gradient(135deg,#2ba8ff,#003e8f);
+    border-collapse:collapse;
 
-    border-radius:15px;
+}
+
+td{
+
+    padding:16px;
+
+    border-bottom:1px solid rgba(255,255,255,.08);
+
+}
+
+td:first-child{
+
+    color:#7bcfff;
+
+    font-weight:700;
+
+    width:220px;
+
+}
+
+/* ===========================
+   Overview
+=========================== */
+
+#overview{
+
+    width:90%;
+
+    max-width:1200px;
+
+    margin:80px auto;
+
+}
+
+#overview h2{
+
+    font-size:42px;
 
     margin-bottom:20px;
 
 }
 
-.card h3{
+#overview p{
 
-    margin-bottom:10px;
+    color:#d7d7d7;
 
-}
-
-.card p{
-
-    color:#b4c4d6;
-
-    margin-bottom:20px;
+    font-size:18px;
 
 }
 
-.card a{
+/* ===========================
+   Mobile
+=========================== */
 
-    color:#5ed6ff;
+@media(max-width:900px){
 
-    text-decoration:none;
+.hero{
 
-}
+flex-direction:column;
 
-/* =========================
-   NEWS
-   ========================= */
+padding-top:140px;
 
-.news-box{
-
-    max-width:900px;
-
-    margin:auto;
-
-    background:#12223a;
-
-    padding:30px;
-
-    border-radius:20px;
+text-align:center;
 
 }
-
-/* =========================
-   ABOUT
-   ========================= */
-
-.about{
-
-    text-align:center;
-
-}
-
-.about p{
-
-    max-width:850px;
-
-    margin:auto;
-
-    color:#c2cfdf;
-
-}
-
-/* =========================
-   FOOTER
-   ========================= */
-
-footer{
-
-    background:#050b14;
-
-    text-align:center;
-
-    padding:50px 20px;
-
-}
-
-footer p{
-
-    color:#90a4ba;
-
-    margin-top:10px;
-
-}
-
-/* =========================
-   MOBILE
-   ========================= */
-
-@media(max-width:768px){
 
 .hero h1{
 
-font-size:42px;
+font-size:48px;
 
 }
 
@@ -388,13 +393,11 @@ font-size:42px;
 
 flex-direction:column;
 
-gap:15px;
+gap:20px;
 
 }
 
 .nav-menu{
-
-gap:15px;
 
 flex-wrap:wrap;
 
@@ -402,9 +405,19 @@ justify-content:center;
 
 }
 
-.hero p{
+.download-buttons{
 
-font-size:17px;
+justify-content:center;
+
+flex-wrap:wrap;
+
+}
+
+.game-cover{
+
+width:280px;
+
+height:390px;
 
 }
 
