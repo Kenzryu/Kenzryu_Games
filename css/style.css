@@ -669,5 +669,40 @@ height:390px;
         align-items:flex-start;
         gap:10px;
     }
+/* ============================
+   FOOTER
+============================ */
 
+.footer{
+    margin-top:80px;
+    background:#0b1220;
+    border-top:1px solid rgba(255,255,255,.08);
+    padding:50px 20px;
+    text-align:center;
+}
+
+.footer-content{
+    max-width:900px;
+    margin:auto;
+}
+
+.footer h3{
+    color:#3da5ff;
+    margin-bottom:15px;
+}
+
+.footer p{
+    color:#b8c5d6;
+    line-height:1.8;
+    margin-bottom:15px;
+}
+
+.footer-disclaimer{
+    font-size:.95rem;
+}
+
+.footer-copy{
+    margin-top:30px;
+    color:#7f8da3;
+    font-size:.9rem;
 }
