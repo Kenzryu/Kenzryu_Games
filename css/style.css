@@ -515,11 +515,11 @@ height:390px;
     background:#d9272e;
 }
 
-.mediafire{
+.mirror{
     background:#0f7cff;
 }
 
-.pixeldrain{
+.mirror{
     background:#6c63ff;
 
    @media (max-width:768px){
