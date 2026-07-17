@@ -579,3 +579,34 @@ height:390px;
 .btn-guide:hover{
     background:#2b8de6;
 }
+.official-section{
+    padding:80px 8%;
+}
+
+.official-card{
+    background:#111827;
+    border-radius:20px;
+    padding:30px;
+    text-align:center;
+    border:1px solid rgba(255,255,255,.08);
+}
+
+.official-card p{
+    color:#b8c5d6;
+    margin-bottom:20px;
+}
+
+.official-btn{
+    display:inline-block;
+    background:#fa5c5c;
+    color:#fff;
+    text-decoration:none;
+    padding:12px 24px;
+    border-radius:12px;
+    font-weight:600;
+    transition:.3s;
+}
+
+.official-btn:hover{
+    background:#e74b4b;
+}
