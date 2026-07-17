@@ -278,6 +278,13 @@ header{
     box-shadow:0 20px 60px rgba(0,0,0,.45);
 
 }
+.cover-image{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    border-radius:25px;
+    display:block;
+}
 
 /* ===========================
    Info
