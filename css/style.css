@@ -610,3 +610,64 @@ height:390px;
 .official-btn:hover{
     background:#e74b4b;
 }
+/* ============================
+   CHANGELOG
+============================ */
+
+.changelog-section{
+    padding:80px 8%;
+}
+
+.changelog-card{
+    background:#111827;
+    border-radius:20px;
+    padding:35px;
+    border:1px solid rgba(255,255,255,.08);
+    box-shadow:0 15px 35px rgba(0,0,0,.25);
+}
+
+.version-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:25px;
+    flex-wrap:wrap;
+}
+
+.version-header h3{
+    color:#3da5ff;
+}
+
+.version-header span{
+    background:#2563eb;
+    color:#fff;
+    padding:6px 14px;
+    border-radius:999px;
+    font-size:.85rem;
+    font-weight:600;
+}
+
+.changelog-list{
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+
+.changelog-list li{
+    padding:14px 0;
+    border-bottom:1px solid rgba(255,255,255,.08);
+    color:#d1d5db;
+}
+
+.changelog-list li:last-child{
+    border-bottom:none;
+}
+      @media (max-width:768px){
+
+    .version-header{
+        flex-direction:column;
+        align-items:flex-start;
+        gap:10px;
+    }
+
+}
