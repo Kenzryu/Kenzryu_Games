@@ -1,0 +1,8 @@
+images/
+│
+├── cover.webp          ← Cover game (Hero)
+├── ss1.webp            ← Screenshot 1
+├── ss2.webp            ← Screenshot 2
+├── ss3.webp            ← Screenshot 3
+├── logo.png            ← Logo website (opsional)
+└── favicon.png         ← Icon browser (opsional)
