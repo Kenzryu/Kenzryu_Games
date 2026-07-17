@@ -524,12 +524,18 @@ height:390px;
 
    @media (max-width:768px){
 
-    .download-buttons{
-        flex-direction:column;
+    .download-card{
+    padding:20px;
+    margin:20px;
+
     }
 
     .btn-download{
-        text-align:center;
-    }
+    width:220px;
+    max-width:100%;
+}
+    .download-platform{
+    margin-bottom:40px;
+}
 
 
