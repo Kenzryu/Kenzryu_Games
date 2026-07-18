@@ -1,11 +1,10 @@
 console.log("Kenzryu Games Website Loaded");
 
-/* ============================
+/* ============================"
    LIGHTBOX
 ============================ */
 
 const lightbox = document.getElementById("lightbox");
-const lightboxImg = document.getElementById("lightbox-img");
 const closeLightbox = document.querySelector(".close-lightbox");
 
 document.querySelectorAll(".gallery img").forEach(img => {
@@ -14,9 +13,17 @@ document.querySelectorAll(".gallery img").forEach(img => {
 
         lightbox.style.display = "flex";
 
+        const lightboxImg = document.createElement('img');
         lightboxImg.src = this.src;
-
         lightboxImg.alt = this.alt;
+        lightboxImg.id = "lightbox-img";
+        
+        lightbox.innerHTML = '<span class="close-lightbox">&times;</span>';
+        lightbox.appendChild(lightboxImg);
+        
+        document.querySelector(".close-lightbox").addEventListener("click", function(){
+            lightbox.style.display = "none";
+        });
 
     });
 
@@ -38,9 +45,9 @@ lightbox.addEventListener("click", function(e){
 
 });
 
-// ===========================
+// ==========================="
 // BACK TO TOP
-// ===========================
+// ==========================="
 
 const backToTop = document.getElementById("backToTop");
 
@@ -67,10 +74,11 @@ backToTop.addEventListener("click", () => {
 
         behavior: "smooth"
            
-                    
+    });
+
 });
-});
-/* ===========================
+
+/* ==========================="
    SEARCH GAME
 =========================== */
 
@@ -132,6 +140,4 @@ document.addEventListener("click", function(e){
 
     }
 
-
-    
 });

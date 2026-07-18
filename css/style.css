@@ -1,10 +1,10 @@
-/* ===========================
+/* ==========================="
    Google Font
 =========================== */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 
-/* ===========================
+/* ==========================="
    Reset
 =========================== */
 
@@ -27,7 +27,7 @@ body{
 
 }
 
-/* ===========================
+/* ==========================="
    Navbar
 =========================== */
 
@@ -105,7 +105,7 @@ header{
 
 }
 
-/* ===========================
+/* ==========================="
    Hero
 =========================== */
 
@@ -191,7 +191,7 @@ header{
 
 }
 
-/* ===========================
+/* ==========================="
    Buttons
 =========================== */
 
@@ -251,7 +251,7 @@ header{
 
 }
 
-/* ===========================
+/* ==========================="
    Cover
 =========================== */
 
@@ -270,7 +270,7 @@ header{
     display:block;
 }
 
-/* ===========================
+/* ==========================="
    Info
 =========================== */
 
@@ -328,7 +328,7 @@ td:first-child{
 
 }
 
-/* ===========================
+/* ==========================="
    Overview
 =========================== */
 
@@ -358,7 +358,7 @@ td:first-child{
 
 }
 
-/* ===========================
+/* ==========================="
    Mobile
 =========================== */
 
@@ -412,7 +412,7 @@ height:390px;
 
 }
 
-/* ============================
+/* ============================"
    SCREENSHOTS
 ============================ */
 
@@ -441,7 +441,7 @@ height:390px;
 .gallery img:hover{
     transform:scale(1.03);
 }
-/* =========================
+/* ========================="
    MOBILE
 ========================= */
 
@@ -457,7 +457,7 @@ height:390px;
         height:auto;
     }
 
-/* ============================
+/* ============================"
    DOWNLOAD
 ============================ */
 
@@ -521,22 +521,23 @@ height:390px;
 
 .mediafire{
     background:#6c63ff;
-   
+}
 
-   @media (max-width:768px){
+@media (max-width:768px){
 
     .download-card{
-    padding:20px;
-    margin:20px;
-
+        padding:20px;
+        margin:20px;
     }
 
     .btn-download{
-    width:220px;
-    max-width:100%;
-}
+        width:220px;
+        max-width:100%;
+    }
+
     .download-platform{
-    margin-bottom:40px;
+        margin-bottom:40px;
+    }
 }
 
 .download-guide{
@@ -579,6 +580,7 @@ height:390px;
 .btn-guide:hover{
     background:#2b8de6;
 }
+
 .official-section{
     padding:80px 8%;
 }
@@ -596,7 +598,7 @@ height:390px;
     margin-bottom:20px;
 }
 
-.official-btn{
+.official-card a{
     display:inline-block;
     background:#fa5c5c;
     color:#fff;
@@ -607,10 +609,11 @@ height:390px;
     transition:.3s;
 }
 
-.official-btn:hover{
+.official-card a:hover{
     background:#e74b4b;
 }
-/* ============================
+
+/* ============================"
    CHANGELOG
 ============================ */
 
@@ -662,14 +665,17 @@ height:390px;
 .changelog-list li:last-child{
     border-bottom:none;
 }
-      @media (max-width:768px){
+
+@media (max-width:768px){
 
     .version-header{
         flex-direction:column;
         align-items:flex-start;
         gap:10px;
     }
-/* ===========================
+}
+
+/* ==========================="
    FOOTER
 =========================== */
 
@@ -698,7 +704,8 @@ height:390px;
     margin:8px 0;
     font-size:15px;
 }
-/* ===========================
+
+/* ==========================="
    BACK TO TOP
 =========================== */
 
@@ -761,7 +768,9 @@ height:390px;
         font-size:20px;
 
     }
-/* ===========================
+}
+
+/* ==========================="
    SEARCH GAME
 =========================== */
 
@@ -852,7 +861,8 @@ height:390px;
     background:#2596ff;
 
 }
-   @media(max-width:768px){
+
+@media(max-width:768px){
 
     .search-box{
 
@@ -860,7 +870,8 @@ height:390px;
 
         margin-top:15px;
 
-    
+    }
 
 }
+
 }
