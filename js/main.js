@@ -1,5 +1,5 @@
 console.log("Kenzryu Games Website Loaded");
-alert("JavaScript berhasil dimuat!");
+
 /* ============================
    LIGHTBOX
 ============================ */
