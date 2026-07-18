@@ -1,4 +1,5 @@
 console.log("Kenzryu Games Website Loaded");
+alert("JavaScript berhasil dimuat!");
 /* ============================
    LIGHTBOX
 ============================ */
@@ -62,7 +63,6 @@ backToTop.addEventListener("click", () => {
 
         behavior: "smooth"
 
-     }
-alert("JavaScript berhasil dimuat!");
+    
 });
 });
