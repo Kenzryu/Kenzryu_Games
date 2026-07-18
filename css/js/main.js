@@ -62,7 +62,7 @@ backToTop.addEventListener("click", () => {
 
         behavior: "smooth"
 
-    
-
+     }
+alert("JavaScript berhasil dimuat!");
 });
 });
