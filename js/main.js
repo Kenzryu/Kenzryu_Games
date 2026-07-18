@@ -44,7 +44,6 @@ lightbox.addEventListener("click", function(e){
 
 const backToTop = document.getElementById("backToTop");
 
-const backToTop = document.getElementById("backToTop");
 
 window.addEventListener("scroll", () => {
 
