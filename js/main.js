@@ -67,7 +67,8 @@ backToTop.addEventListener("click", () => {
 
         behavior: "smooth"
            }
-
+                    
+});
 });
 /* ===========================
    SEARCH GAME
@@ -133,5 +134,4 @@ document.addEventListener("click", function(e){
 
 
     
-});
 });
