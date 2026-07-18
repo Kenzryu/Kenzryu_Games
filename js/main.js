@@ -35,9 +35,14 @@ lightbox.addEventListener("click", function(e){
         lightbox.style.display = "none";
 
     }
+
+});
+
 // ===========================
 // BACK TO TOP
 // ===========================
+
+const backToTop = document.getElementById("backToTop");
 
 const backToTop = document.getElementById("backToTop");
 
