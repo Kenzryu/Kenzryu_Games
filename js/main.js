@@ -66,7 +66,69 @@ backToTop.addEventListener("click", () => {
         top: 0,
 
         behavior: "smooth"
+/* ===========================
+   SEARCH GAME
+=========================== */
 
+const searchInput = document.getElementById("searchGame");
+const searchResult = document.getElementById("searchResult");
+
+const games = [
+
+    {
+        name: "Lustful Sin",
+        url: "index.html"
+    }
+
+];
+
+searchInput.addEventListener("input", function(){
+
+    const keyword = this.value.toLowerCase();
+
+    searchResult.innerHTML = "";
+
+    if(keyword === ""){
+
+        searchResult.style.display = "none";
+
+        return;
+
+    }
+
+    const result = games.filter(game =>
+        game.name.toLowerCase().includes(keyword)
+    );
+
+    if(result.length === 0){
+
+        searchResult.innerHTML =
+        "<a>Tidak ada game ditemukan</a>";
+
+    }else{
+
+        result.forEach(game=>{
+
+            searchResult.innerHTML +=
+            `<a href="${game.url}">${game.name}</a>`;
+
+        });
+
+    }
+
+    searchResult.style.display = "block";
+
+});
+
+document.addEventListener("click", function(e){
+
+    if(!document.querySelector(".search-box").contains(e.target)){
+
+        searchResult.style.display = "none";
+
+    }
+
+});
     
 });
 });
