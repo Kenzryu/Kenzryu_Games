@@ -698,3 +698,68 @@ height:390px;
     margin:8px 0;
     font-size:15px;
 }
+/* ===========================
+   BACK TO TOP
+=========================== */
+
+#backToTop{
+
+    position:fixed;
+
+    right:25px;
+
+    bottom:25px;
+
+    width:55px;
+
+    height:55px;
+
+    border:none;
+
+    border-radius:50%;
+
+    background:#3da5ff;
+
+    color:#fff;
+
+    font-size:24px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+    box-shadow:0 8px 25px rgba(0,0,0,.35);
+
+    display:none;
+
+    transition:.3s;
+
+    z-index:9999;
+
+}
+
+#backToTop:hover{
+
+    transform:translateY(-5px);
+
+    background:#2596ff;
+
+}
+
+@media(max-width:768px){
+
+    #backToTop{
+
+        width:48px;
+
+        height:48px;
+
+        right:18px;
+
+        bottom:18px;
+
+        font-size:20px;
+
+    }
+
+}
