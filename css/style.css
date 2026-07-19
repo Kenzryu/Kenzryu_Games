@@ -93,3 +93,94 @@ section{
     padding:80px 10%;
 
 }
+/* =========================
+   NAVBAR
+========================= */
+
+header{
+
+    background:var(--card-color);
+
+    border-bottom:1px solid var(--border);
+
+    position:sticky;
+
+    top:0;
+
+    z-index:1000;
+
+}
+
+.navbar{
+
+    max-width:1200px;
+
+    margin:auto;
+
+    padding:18px 20px;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+
+.logo a{
+
+    font-size:28px;
+
+    font-weight:bold;
+
+    color:var(--primary);
+
+}
+
+.nav-menu{
+
+    display:flex;
+
+    gap:30px;
+
+    list-style:none;
+
+}
+
+.nav-menu a{
+
+    color:var(--text);
+
+    transition:.3s;
+
+}
+
+.nav-menu a:hover{
+
+    color:var(--primary);
+
+}
+
+.search-box input{
+
+    width:220px;
+
+    padding:10px 15px;
+
+    border:1px solid var(--border);
+
+    border-radius:8px;
+
+    background:#0f172a;
+
+    color:white;
+
+    outline:none;
+
+}
+
+.search-box input::placeholder{
+
+    color:#9ca3af;
+
+}
