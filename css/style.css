@@ -184,3 +184,68 @@ header{
     color:#9ca3af;
 
 }
+/* =========================
+   HERO
+========================= */
+
+.hero{
+
+    min-height:85vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    text-align:center;
+
+    padding:100px 20px;
+
+    background:linear-gradient(135deg,#111827,#1f2937);
+
+}
+
+.hero-content{
+
+    max-width:800px;
+
+}
+
+.hero-tag{
+
+    display:inline-block;
+
+    padding:8px 18px;
+
+    background:var(--primary);
+
+    border-radius:30px;
+
+    margin-bottom:20px;
+
+    font-size:14px;
+
+    font-weight:bold;
+
+}
+
+.hero h1{
+
+    font-size:56px;
+
+    margin-bottom:20px;
+
+}
+
+.hero p{
+
+    color:var(--text-secondary);
+
+    font-size:20px;
+
+    margin-bottom:40px;
+
+    line-height:1.8;
+
+}
