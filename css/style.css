@@ -249,3 +249,32 @@ header{
     line-height:1.8;
 
 }
+/* =========================
+   BUTTONS
+========================= */
+
+.btn-primary{
+
+    display:inline-block;
+
+    padding:16px 40px;
+
+    background:var(--primary);
+
+    color:white;
+
+    border-radius:10px;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+.btn-primary:hover{
+
+    background:var(--primary-hover);
+
+    transform:translateY(-3px);
+
+}
