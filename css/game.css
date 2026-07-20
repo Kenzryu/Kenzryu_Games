@@ -284,4 +284,56 @@
 
 }
 
+/* =========================
+   CHANGELOG
+========================= */
+
+.game-changelog{
+
+    padding:70px 0;
+
+}
+
+.game-changelog h2{
+
+    font-size:36px;
+
+    margin-bottom:30px;
+
+}
+
+.changelog-card{
+
+    background:var(--card-color);
+
+    border:1px solid var(--border);
+
+    border-radius:15px;
+
+    padding:30px;
+
+}
+
+.changelog-card h3{
+
+    color:var(--primary);
+
+    margin-bottom:20px;
+
+}
+
+.changelog-card ul{
+
+    padding-left:20px;
+
+}
+
+.changelog-card li{
+
+    margin-bottom:12px;
+
+    color:var(--text-secondary);
+
+}
+
 
