@@ -105,3 +105,51 @@
     line-height:1.9;
 
 }
+
+/* =========================
+   GAME GALLERY
+========================= */
+
+.game-gallery{
+
+    padding:70px 0;
+
+}
+
+.game-gallery h2{
+
+    font-size:36px;
+
+    margin-bottom:30px;
+
+}
+
+.gallery-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:25px;
+
+}
+
+.gallery-grid img{
+
+    width:100%;
+
+    border-radius:12px;
+
+    border:1px solid var(--border);
+
+    transition:.3s;
+
+    cursor:pointer;
+
+}
+
+.gallery-grid img:hover{
+
+    transform:scale(1.03);
+
+}
