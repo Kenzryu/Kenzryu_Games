@@ -77,3 +77,31 @@
     margin-top:35px;
 
 }
+
+/* =========================
+   GAME OVERVIEW
+========================= */
+
+.game-overview{
+
+    padding:70px 0;
+
+}
+
+.game-overview h2{
+
+    font-size:36px;
+
+    margin-bottom:25px;
+
+}
+
+.game-overview p{
+
+    font-size:18px;
+
+    color:var(--text-secondary);
+
+    line-height:1.9;
+
+}
