@@ -215,3 +215,67 @@
     color:var(--text-secondary);
 
 }
+
+/* =========================
+   DOWNLOAD
+========================= */
+
+.game-download{
+
+    padding:70px 0;
+
+}
+
+.game-download h2{
+
+    font-size:36px;
+
+    margin-bottom:15px;
+
+}
+
+.game-download p{
+
+    color:var(--text-secondary);
+
+    margin-bottom:35px;
+
+}
+
+.download-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:20px;
+
+}
+
+.download-btn{
+
+    display:block;
+
+    text-align:center;
+
+    padding:18px;
+
+    background:var(--primary);
+
+    color:#fff;
+
+    border-radius:12px;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+.download-btn:hover{
+
+    background:var(--primary-hover);
+
+    transform:translateY(-3px);
+
+}
