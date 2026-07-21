@@ -624,3 +624,45 @@
 
 }
 
+/* =========================
+   GAME RATING
+========================= */
+
+.game-rating{
+
+    padding:60px 0;
+
+}
+
+.rating-box{
+
+    background:var(--card-color);
+
+    border:1px solid var(--border);
+
+    border-radius:15px;
+
+    padding:30px;
+
+    text-align:center;
+
+}
+
+.stars{
+
+    font-size:38px;
+
+    color:#FFD700;
+
+}
+
+.rating-box p{
+
+    margin-top:15px;
+
+    font-size:22px;
+
+    font-weight:bold;
+
+}
+
