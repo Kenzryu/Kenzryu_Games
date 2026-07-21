@@ -570,3 +570,21 @@
 
 }
 
+.details-table td a{
+
+    color:var(--primary);
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+.details-table td a:hover{
+
+    color:var(--primary-hover);
+
+    text-decoration:underline;
+
+}
+
