@@ -9,29 +9,20 @@
 }
 
 .game-info{
-
     display:flex;
-
-    gap:60px;
-
     align-items:flex-start;
-
+    justify-content:space-between;
+    gap:40px;
 }
 
 .game-cover{
-
-    flex:0 0 350px;
-
+    flex:0 0 320px;
+    max-width:320px;
 }
 
 .game-cover img{
-
     width:100%;
-
-    border-radius:15px;
-
-    border:1px solid var(--border);
-
+    display:block;
 }
 
 .game-details{
