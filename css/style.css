@@ -140,6 +140,12 @@ header{
 
 .logo a{
 
+    display:flex;
+
+    align-items:center;
+
+    gap:12px;
+
     font-size:30px;
 
     font-weight:700;
@@ -149,6 +155,16 @@ header{
     color:var(--primary);
 
     transition:.3s;
+
+}
+
+.logo img{
+
+    width:42px;
+
+    height:42px;
+
+    object-fit:contain;
 
 }
 
