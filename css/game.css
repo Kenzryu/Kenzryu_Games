@@ -423,65 +423,48 @@
 ========================= */
 
 .game-details{
-
-    padding:70px 0;
-
-}
-
-.game-details h2{
-
-    font-size:36px;
-
-    margin-bottom:30px;
-
+    padding:80px 0;
 }
 
 .details-table{
-
     width:100%;
-
+    max-width:700px;
     border-collapse:collapse;
-
-    background:var(--card-color);
-
+    margin-top:30px;
+    background:#1b2433;
     border-radius:12px;
-
     overflow:hidden;
-
-}
-
-.details-table th{
-
-    width:220px;
-
-    text-align:left;
-
-    padding:18px;
-
-    background:#283548;
-
-    color:white;
-
-}
-
-.details-table td{
-
-    padding:18px;
-
-    color:var(--text-secondary);
-
 }
 
 .details-table tr{
-
-    border-bottom:1px solid var(--border);
-
+    border-bottom:1px solid rgba(255,255,255,.08);
 }
 
 .details-table tr:last-child{
-
     border-bottom:none;
+}
 
+.details-table th{
+    width:220px;
+    padding:16px 24px;
+    text-align:left;
+    color:#9bb4d6;
+    font-weight:600;
+}
+
+.details-table td{
+    padding:16px 24px;
+    color:#ffffff;
+}
+
+.details-table a{
+    color:#4b8dff;
+    text-decoration:none;
+    font-weight:600;
+}
+
+.details-table a:hover{
+    text-decoration:underline;
 }
 
 /* =========================
