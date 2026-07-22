@@ -69,14 +69,14 @@
 }
 
 .game-buttons{
+        flex-direction:column;
+        gap:15px;
+    }
 
-    display:flex;
-
-    gap:20px;
-
-    margin-top:35px;
-
-}
+    .game-buttons a{
+        width:100%;
+    }
+ }
 
 /* =========================
    GAME OVERVIEW
