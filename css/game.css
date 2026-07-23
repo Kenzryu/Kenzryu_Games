@@ -73,15 +73,20 @@
 
 .game-buttons a{
 
-    width:170px;
-    height:56px;
-
     display:flex;
     justify-content:center;
     align-items:center;
 
-}
+    width:180px;
+    height:60px;
 
+    border-radius:10px;
+
+    font-weight:700;
+    font-size:18px;
+
+    flex:0 0 180px;
+}
 /* =========================
    GAME OVERVIEW
 ========================= */
