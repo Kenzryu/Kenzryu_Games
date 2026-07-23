@@ -658,3 +658,29 @@
 
 }
 
+.btn-game{
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    width:180px;
+    height:60px;
+
+    background:var(--primary);
+    color:#fff;
+
+    border-radius:10px;
+
+    font-weight:bold;
+
+    transition:.3s;
+
+}
+
+.btn-game:hover{
+
+    background:var(--primary-hover);
+
+}
+
