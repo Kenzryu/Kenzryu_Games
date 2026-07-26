@@ -76,4 +76,23 @@
 
     }
 
+   .related-grid{
+    grid-template-columns:1fr;
+    gap:20px;
+}
+
+.related-card img{
+    height:220px;
+    object-fit:cover;
+}
+
+.related-card h3{
+    min-height:auto;
+    text-align:center;
+}
+
+.related-card a{
+    width:calc(100% - 40px);
+}
+
 }
