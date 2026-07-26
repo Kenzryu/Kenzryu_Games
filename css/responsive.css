@@ -135,6 +135,9 @@
     .btn-game{
         width:160px;
     }
-
+   
+header{
+    position:static;
+}
 
 }
