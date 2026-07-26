@@ -50,9 +50,33 @@
 
     }
 
-    .games-grid{
+   .games-grid{
+    grid-template-columns:1fr;
+    gap:20px;
+}
 
-        grid-template-columns:1fr;
+.game-card{
+    max-width:300px;
+    margin:0 auto;
+}
+
+.game-card img{
+    height:170px;
+    object-fit:cover;
+}
+
+.game-card h3{
+    font-size:22px;
+    margin:16px;
+}
+
+.game-card p{
+    margin:0 16px 16px;
+}
+
+.btn-card{
+    margin:16px;
+    padding:12px;
 
     }
 
