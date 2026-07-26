@@ -95,31 +95,46 @@
     width:calc(100% - 40px);
 }
 
-   .game-info{
-    flex-direction: column;
-    align-items: center;
-    gap: 30px;
-}
+.game-info{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+        gap:30px;
+    }
 
-.game-cover{
-    flex: none;
-    width: 100%;
-    max-width: 400px;
-}
+    .game-cover{
+        width:100%;
+        max-width:100%;
+        flex:none;
+    }
 
-.game-summary{
-    width: 100%;
-    text-align: center;
-}
+    .game-cover img{
+        width:100%;
+        height:auto;
+    }
 
-.game-summary h1{
-    font-size: 42px;
-}
+    .game-summary{
+        width:100%;
+        text-align:left;
+    }
 
-.game-buttons{
-    justify-content: center;
-    flex-wrap: wrap;
+    .game-summary h1{
+        font-size:36px;
+        line-height:1.2;
+        word-break:break-word;
+    }
 
-}
+    .game-buttons{
+        display:flex;
+        justify-content:center;
+        flex-wrap:wrap;
+        gap:15px;
+    }
+
+    .btn-game{
+        width:160px;
+    }
+
 
 }
