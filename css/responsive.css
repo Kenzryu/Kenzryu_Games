@@ -95,4 +95,30 @@
     width:calc(100% - 40px);
 }
 
+   .game-info{
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.game-cover{
+    flex: none;
+    width: 100%;
+    max-width: 400px;
+}
+
+.game-summary{
+    width: 100%;
+    text-align: center;
+}
+
+.game-summary h1{
+    font-size: 42px;
+}
+
+.game-buttons{
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 }
