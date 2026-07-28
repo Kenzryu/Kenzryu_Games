@@ -8,8 +8,8 @@ const games = [
     url:"games/Cinderella’s Glass Collar/index.html"
 },
 {
-    name:"Game Ketiga",
-    url:"games/game3/index.html"
+    name:"Attack on Survey Corps",
+    url:"games/Attack-on-Survey-Corps/index.html"
 }
 ];
 
