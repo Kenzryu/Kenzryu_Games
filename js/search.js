@@ -1,25 +1,16 @@
 const searchInput = document.getElementById("searchInput");
+const cards = document.querySelectorAll(".game-card");
 
-const games = document.querySelectorAll(".game-card");
-
-searchInput.addEventListener("keyup", function () {
-
+searchInput.addEventListener("input", function () {
     const keyword = this.value.toLowerCase();
 
-    games.forEach(game => {
-
-        const name = game.dataset.name.toLowerCase();
+    cards.forEach(card => {
+        const name = card.dataset.name.toLowerCase();
 
         if (name.includes(keyword)) {
-
-            game.style.display = "block";
-
+            card.style.display = "";
         } else {
-
-            game.style.display = "none";
-
+            card.style.display = "none";
         }
-
     });
-
 });
