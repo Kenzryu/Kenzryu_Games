@@ -11,6 +11,42 @@ const games = [
     name:"Attack on Survey Corps",
     url:"games/Attack-on-Survey-Corps/index.html"
 }
+     name:"My New Girlfriend",
+    url:"games/My-New-Girlfriend/index.html"
+}
+ name:"Living with Alya",
+    url:"games/Living-with-Alya/index.html"
+}
+ name:"Living with Chainsaw",
+    url:"games/Living-with-Chainsaw/index.html"
+}
+ name:"Lewd Slayer Inn",
+    url:"games/Lewd-Slayer-Inn/index.html"
+}
+ name:"Academy34",
+    url:"games/Academy34/index.html"
+}
+ name:"Lewd Slayer Inn",
+    url:"games/Lewd-Slayer-Inn/index.html"
+}
+ name:"Parallax",
+    url:"games/Parallax/index.html"
+}
+ name:"He’s Just a Friend",
+    url:"games/He’s-Just-a-Friend/index.html"
+}
+ name:"How I Fap",
+    url:"games/How-I-Fap/index.html"
+}
+name:"College of Mysteria",
+    url:"games/College-of-Mysteria/index.html"
+}
+name:"Isekai Chan!",
+    url:"games/Isekai-Chan!/index.html"
+}
+name:"Wife’s Dare – Reignited",
+    url:"games/Wife’s-Dare – Reignited/index.html"
+}
 ];
 
 const input=document.getElementById("searchInput");
