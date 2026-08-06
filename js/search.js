@@ -54,6 +54,21 @@ const games = [
     {
         name: "Wife’s Dare – Reignited",
         url: "games/Wife’s-Dare – Reignited/index.html"
+        
+     },
+    {
+        name: "Secrets in Focus",
+        url: "games/Secrets-in-Focus/index.html"
+        
+    },
+    {
+        name: "Aunt’s Secret Desires",
+        url: "games/Aunt’s-Secret-Desires/index.html"
+
+    },
+    {
+        name: "Path of Desire!",
+        url: "games/Path-of-Desire/index.html"
     }
 ];
 
