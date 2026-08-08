@@ -69,6 +69,16 @@ const games = [
     {
         name: "Path of Desire!",
         url: "games/Path-of-Desire/index.html"
+
+    },
+    {
+        name: "Jujutsu Trainer",
+        url: "games/Jujutsu-Trainer/index.html"
+    },
+    {
+        name: "Training Slayer",
+        url: "games/Training-Slayer/index.html"
+
     }
 ];
 
