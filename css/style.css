@@ -624,17 +624,18 @@ header{
 .view-all-games a {
     display: inline-block;
     padding: 12px 28px;
+    background: #3b82f6;
+    color: #ffffff;
     border-radius: 8px;
     text-decoration: none;
     font-weight: 600;
-    transition: transform 0.2s ease, opacity 0.2s ease;
+    transition: all 0.2s ease;
 }
 
 .view-all-games a:hover {
+    background: #2563eb;
     transform: translateY(-2px);
-    opacity: 0.9;
 }
-
 
 /* =========================
    Pagination
