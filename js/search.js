@@ -1,86 +1,4 @@
-const games = [
-    {
-        name: "Lustful Sin",
-        url: "games/lustful-sin/index.html"
-    },
-    {
-        name: "Cinderella's Glass Collar",
-        url: "games/Cinderella’s Glass Collar/index.html"
-    },
-    {
-        name: "Attack on Survey Corps",
-        url: "games/Attack-on-Survey-Corps/index.html"
-    },
-    {
-        name: "My New Girlfriend",
-        url: "games/My-New-Girlfriend/index.html"
-    },
-    {
-        name: "Living with Alya",
-        url: "games/Living-with-Alya/index.html"
-    },
-    {
-        name: "Living with Chainsaw",
-        url: "games/Living-with-Chainsaw/index.html"
-    },
-    {
-        name: "Lewd Slayer Inn",
-        url: "games/Lewd-Slayer-Inn/index.html"
-    },
-    {
-        name: "Academy34",
-        url: "games/Academy34/index.html"
-    },
-    {
-        name: "Parallax",
-        url: "games/Parallax/index.html"
-    },
-    {
-        name: "He’s Just a Friend",
-        url: "games/He’s-Just-a-Friend/index.html"
-    },
-    {
-        name: "How I Fap",
-        url: "games/How-I-Fap/index.html"
-    },
-    {
-        name: "College of Mysteria",
-        url: "games/College-of-Mysteria/index.html"
-    },
-    {
-        name: "Isekai Chan!",
-        url: "games/Isekai-Chan!/index.html"
-    },
-    {
-        name: "Wife’s Dare – Reignited",
-        url: "games/Wife’s-Dare – Reignited/index.html"
-        
-     },
-    {
-        name: "Secrets in Focus",
-        url: "games/Secrets-in-Focus/index.html"
-        
-    },
-    {
-        name: "Aunt’s Secret Desires",
-        url: "games/Aunt’s-Secret-Desires/index.html"
-
-    },
-    {
-        name: "Path of Desire!",
-        url: "games/Path-of-Desire/index.html"
-
-    },
-    {
-        name: "Jujutsu Trainer",
-        url: "games/Jujutsu-Trainer/index.html"
-    },
-    {
-        name: "Training Slayer",
-        url: "games/Training-Slayer/index.html"
-
-    }
-];
+const games = window.games;
 
 const input = document.getElementById("searchInput");
 const results = document.getElementById("searchResults");
@@ -105,7 +23,8 @@ input.addEventListener("input", () => {
 
     if (match.length === 0) {
 
-        results.innerHTML = '<div class="search-empty">No game found</div>';
+        results.innerHTML =
+            '<div class="search-empty">No game found</div>';
 
         results.style.display = "block";
 
@@ -134,6 +53,7 @@ input.addEventListener("input", () => {
 
 });
 
+
 input.addEventListener("keydown", (e) => {
 
     const items = document.querySelectorAll(".search-item");
@@ -144,20 +64,22 @@ input.addEventListener("keydown", (e) => {
 
         selected++;
 
-        if (selected >= items.length) selected = 0;
+        if (selected >= items.length) {
+            selected = 0;
+        }
 
         update();
-
     }
 
     if (e.key === "ArrowUp") {
 
         selected--;
 
-        if (selected < 0) selected = items.length - 1;
+        if (selected < 0) {
+            selected = items.length - 1;
+        }
 
         update();
-
     }
 
     if (e.key === "Enter") {
@@ -173,10 +95,10 @@ input.addEventListener("keydown", (e) => {
             items[0].click();
 
         }
-
     }
 
 });
+
 
 function update() {
 
@@ -187,6 +109,7 @@ function update() {
     });
 
 }
+
 
 document.addEventListener("click", (e) => {
 
