@@ -71,6 +71,55 @@ window.games = [
         date: "2026-07-29",
         image: "images/College-of-Mysteria/cover.webp",
         url: "games/College-of-Mysteria/index.html"
+
+    },
+    {
+        name: "Isekai Chan!",
+        date: "2026-07-02",
+        image: "images/Isekai-Chan!/cover.webp",
+        url: "games/Isekai-Chan!/index.html"
+
+    },
+    {
+        name: "Wife’s Dare – Reignited",
+        date: "2026-07-17",
+        image: "images/Wife’s-Dare – Reignited/cover.webp",
+        url: "games/Wife’s-Dare – Reignited/index.html"
+
+         },
+    {
+        name: "Secrets in Focus",
+        date: "2026-08-01",
+        image: "images/Secrets-in-Focus/cover.webp",
+        url: "games/Secrets-in-Focus/index.html"
+
+         },
+    {
+        name: "Path of Desire",
+        date: "2026-07-30",
+        image: "images/Path-of-Desire/cover.webp",
+        url: "games/Path-of-Desire/index.html"
+
+         },
+    {
+        name: "Aunt’s Secret Desires",
+        date: "2026-07-28",
+        image: "images/Aunt’s-Secret-Desires/cover.webp",
+        url: "games/Aunt’s-Secret-Desires/index.html"
+
+         },
+    {
+        name: "Training Slayer",
+        date: "2026-08-08",
+        image: "images/Training-Slayer/cover.webp",
+        url: "games/Training-Slayer/index.html"
+
+         },
+    {
+        name: "Jujutsu Trainer",
+        date: "2026-08-08",
+        image: "images/Jujutsu-Trainer/cover.webp",
+        url: "games/Jujutsu-Trainer/index.html"
     }
 
     // Tambahkan game lainnya di sini
