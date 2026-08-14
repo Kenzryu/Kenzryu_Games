@@ -8,7 +8,7 @@ window.games = [
     {
         name: "Cinderella's Glass Collar",
         date: "2026-07-13",
-        image: "images/Cinderella’s Glass Collar/cover.webp",
+        image: "images/Cinderella’s-Glass-Collar/cover.webp",
         url: "games/Cinderella’s Glass Collar/index.html"
     },
     {
@@ -86,40 +86,61 @@ window.games = [
         image: "images/Wife’s-Dare – Reignited/cover.webp",
         url: "games/Wife’s-Dare – Reignited/index.html"
 
-         },
+    },
     {
         name: "Secrets in Focus",
         date: "2026-08-01",
         image: "images/Secrets-in-Focus/cover.webp",
         url: "games/Secrets-in-Focus/index.html"
 
-         },
+    },
     {
         name: "Path of Desire",
         date: "2026-07-30",
         image: "images/Path-of-Desire/cover.webp",
         url: "games/Path-of-Desire/index.html"
 
-         },
+    },
     {
         name: "Aunt’s Secret Desires",
         date: "2026-07-28",
         image: "images/Aunt’s-Secret-Desires/cover.webp",
         url: "games/Aunt’s-Secret-Desires/index.html"
 
-         },
+    },
     {
         name: "Training Slayer",
         date: "2026-08-08",
         image: "images/Training-Slayer/cover.webp",
         url: "games/Training-Slayer/index.html"
 
-         },
+    },
     {
         name: "Jujutsu Trainer",
         date: "2026-08-08",
         image: "images/Jujutsu-Trainer/cover.webp",
         url: "games/Jujutsu-Trainer/index.html"
+
+    },
+    {
+        name: "Summertime Saga",
+        date: "2026-08-11",
+        image: "images/Summertime-Saga/cover.webp",
+        url: "games/Summertime-Saga/index.html"
+
+    },
+    {
+        name: "Afterparty Nights",
+        date: "2026-08-09",
+        image: "images/Afterparty-Nights/cover.webp",
+        url: "games/Afterparty-Nights/index.html"
+
+         },
+    {
+        name: "Into the Industry",
+        date: "2026-08-13",
+        image: "images/Into-the-Industry/cover.webp",
+        url: "games/Into-the-Industry/index.html"
     }
 
     // Tambahkan game lainnya di sini
