@@ -141,6 +141,13 @@ window.games = [
         date: "2026-08-13",
         image: "images/Into-the-Industry/cover.webp",
         url: "games/Into-the-Industry/index.html"
+
+    },
+    {
+        name: "Whispering Ledger",
+        date: "2026-08-16",
+        image: "images/Whispering-Ledger/cover.webp",
+        url: "games/Whispering-Ledger/index.html"
     }
 
     // Tambahkan game lainnya di sini
