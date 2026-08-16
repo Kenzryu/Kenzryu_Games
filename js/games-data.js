@@ -148,6 +148,13 @@ window.games = [
         date: "2026-08-16",
         image: "images/Whispering-Ledger/cover.webp",
         url: "games/Whispering-Ledger/index.html"
+
+    },
+    {
+        name: "Another One",
+        date: "2026-08-16",
+        image: "images/Another-One/cover.webp",
+        url: "games/Another-One/index.html"
     }
 
     // Tambahkan game lainnya di sini
