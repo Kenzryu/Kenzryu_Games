@@ -40,9 +40,7 @@ input.addEventListener("input", () => {
         item.textContent = "🔍 " + game.name;
 
         item.onclick = () => {
-
             window.location.href = game.url;
-
         };
 
         results.appendChild(item);
@@ -50,73 +48,5 @@ input.addEventListener("input", () => {
     });
 
     results.style.display = "block";
-
-});
-
-
-input.addEventListener("keydown", (e) => {
-
-    const items = document.querySelectorAll(".search-item");
-
-    if (!items.length) return;
-
-    if (e.key === "ArrowDown") {
-
-        selected++;
-
-        if (selected >= items.length) {
-            selected = 0;
-        }
-
-        update();
-    }
-
-    if (e.key === "ArrowUp") {
-
-        selected--;
-
-        if (selected < 0) {
-            selected = items.length - 1;
-        }
-
-        update();
-    }
-
-    if (e.key === "Enter") {
-
-        e.preventDefault();
-
-        if (selected >= 0) {
-
-            items[selected].click();
-
-        } else {
-
-            items[0].click();
-
-        }
-    }
-
-});
-
-
-function update() {
-
-    document.querySelectorAll(".search-item").forEach((item, i) => {
-
-        item.classList.toggle("active", i === selected);
-
-    });
-
-}
-
-
-document.addEventListener("click", (e) => {
-
-    if (!document.querySelector(".search-box").contains(e.target)) {
-
-        results.style.display = "none";
-
-    }
 
 });
