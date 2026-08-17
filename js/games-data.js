@@ -162,6 +162,13 @@ window.games = [
         date: "2026-08-17",
         image: "images/A-Ninja’s-Return/cover.webp",
         url: "games/A-Ninja’s-Return/index.html"
+
+    },
+    {
+        name: "Script Tease",
+        date: "2026-08-17",
+        image: "images/Script-Tease/cover.webp",
+        url: "games/Script-Tease/index.html"
     }
 
     // Tambahkan game lainnya di sini
