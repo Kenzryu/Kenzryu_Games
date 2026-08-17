@@ -155,6 +155,13 @@ window.games = [
         date: "2026-08-16",
         image: "images/Another-One/cover.webp",
         url: "games/Another-One/index.html"
+
+    },
+    {
+        name: "A Ninja’s Return",
+        date: "2026-08-17",
+        image: "images/A-Ninja’s-Return/cover.webp",
+        url: "games/A-Ninja’s-Return/index.html"
     }
 
     // Tambahkan game lainnya di sini
