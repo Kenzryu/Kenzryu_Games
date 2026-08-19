@@ -176,6 +176,27 @@ window.games = [
         date: "2026-08-15",
         image: "images/Lewd-Souls/cover.webp",
         url: "games/Lewd-Souls/index.html"
+
+    },
+    {
+        name: "Lusty Buccaneers",
+        date: "2026-08-15",
+        image: "images/Lusty-Buccaneers/cover.webp",
+        url: "games/Lusty-Buccaneers/index.html"
+
+    },
+    {
+        name: "Surrounded by Sluts",
+        date: "2026-08-15",
+        image: "images/Surrounded-by-Sluts/cover.webp",
+        url: "games/Surrounded-by-Sluts/index.html"
+
+    },
+    {
+        name: "H-Soul Caller",
+        date: "2026-08-15",
+        image: "images/H-Soul-Caller/cover.webp",
+        url: "games/H-Soul-Caller/index.html"
     }
 
     // Tambahkan game lainnya di sini
