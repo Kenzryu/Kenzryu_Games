@@ -169,6 +169,13 @@ window.games = [
         date: "2026-08-17",
         image: "images/Script-Tease/cover.webp",
         url: "games/Script-Tease/index.html"
+
+     },
+    {
+        name: "Lewd Souls",
+        date: "2026-08-15",
+        image: "images/Lewd-Souls/cover.webp",
+        url: "games/Lewd-Souls/index.html"
     }
 
     // Tambahkan game lainnya di sini
