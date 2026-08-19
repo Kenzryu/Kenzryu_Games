@@ -1,4 +1,4 @@
-const games = window.games;
+
 
 const input = document.getElementById("searchInput");
 const results = document.getElementById("searchResults");
@@ -17,8 +17,9 @@ input.addEventListener("input", () => {
         return;
     }
 
-    const match = games.filter(game =>
-        game.name.toLowerCase().includes(value)
+   const match = window.games.filter(game =>
+    game.name.toLowerCase().includes(value)
+);
     );
 
     if (match.length === 0) {
