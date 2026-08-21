@@ -180,7 +180,7 @@ window.games = [
     },
     {
         name: "Lusty Buccaneers",
-        date: "2026-08-15",
+        date: "2026-08-22",
         image: "images/Lusty-Buccaneers/cover.webp",
         url: "games/Lusty-Buccaneers/index.html"
 
