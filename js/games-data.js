@@ -7,7 +7,7 @@ window.games = [
     },
     {
         name: "Cinderella's Glass Collar",
-        date: "2026-07-13",
+        date: "2026-08-22",
         image: "images/Cinderella’s-Glass-Collar/cover.webp",
         url: "games/Cinderella’s Glass Collar/index.html"
     },
