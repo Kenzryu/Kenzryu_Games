@@ -197,6 +197,27 @@ window.games = [
         date: "2026-08-15",
         image: "images/H-Soul-Caller/cover.webp",
         url: "games/H-Soul-Caller/index.html"
+
+    },
+    {
+        name: "Agent Sherine",
+        date: "2026-08-20",
+        image: "images/Agent-Sherine/cover.webp",
+        url: "games/Agent-Sherine/index.html"
+
+    },
+    {
+        name: "Family Mysteries",
+        date: "2026-08-20",
+        image: "images/Family-Mysteries/cover.webp",
+        url: "games/Family-Mysteries/index.html"
+
+    },
+    {
+        name: "Hentai Hustle",
+        date: "2026-08-20",
+        image: "images/Hentai-Hustle/cover.webp",
+        url: "games/Hentai-Hustle/index.html"
     }
 
     // Tambahkan game lainnya di sini
