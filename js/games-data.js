@@ -218,6 +218,13 @@ window.games = [
         date: "2026-08-20",
         image: "images/Hentai-Hustle/cover.webp",
         url: "games/Hentai-Hustle/index.html"
+
+    },
+    {
+        name: "Rachael’s Lewd Adventures",
+        date: "2026-08-25",
+        image: "images/Rachael’s-Lewd-Adventures/cover.webp",
+        url: "games/Rachael’s-Lewd-Adventures/index.html"
     }
 
     // Tambahkan game lainnya di sini
