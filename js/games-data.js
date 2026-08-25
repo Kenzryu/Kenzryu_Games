@@ -232,6 +232,13 @@ window.games = [
         date: "2026-08-20",
         image: "images/Distant-Vows/cover.webp",
         url: "games/Distant-Vows/index.html"
+
+    },
+    {
+        name: "Shadow Island",
+        date: "2026-08-25",
+        image: "images/Shadow-Island/cover.webp",
+        url: "games/Shadow Island/index.html"
     }
 
     // Tambahkan game lainnya di sini
