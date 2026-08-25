@@ -229,7 +229,7 @@ window.games = [
     },
     {
         name: "Distant Vows",
-        date: "2026-08-25",
+        date: "2026-08-20",
         image: "images/Distant-Vows/cover.webp",
         url: "games/Distant-Vows/index.html"
     }
