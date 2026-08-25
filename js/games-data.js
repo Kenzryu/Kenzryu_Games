@@ -225,6 +225,13 @@ window.games = [
         date: "2026-08-25",
         image: "images/Rachael’s-Lewd-Adventures/cover.webp",
         url: "games/Rachael’s-Lewd-Adventures/index.html"
+
+    },
+    {
+        name: "Distant Vows",
+        date: "2026-08-25",
+        image: "images/Distant-Vows/cover.webp",
+        url: "games/Distant-Vows/index.html"
     }
 
     // Tambahkan game lainnya di sini
