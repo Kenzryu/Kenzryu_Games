@@ -246,6 +246,13 @@ window.games = [
         date: "2026-08-31",
         image: "images/Sinful-Valley/cover.webp",
         url: "games/Sinful-Valley/index.html"
+
+    },
+    {
+        name: "Xmas Hentai Girlfriends",
+        date: "2026-08-22",
+        image: "images/Xmas-Hentai-Girlfriends/cover.webp",
+        url: "games/Xmas-Hentai-Girlfriends/index.html"
     }
 
     // Tambahkan game lainnya di sini
