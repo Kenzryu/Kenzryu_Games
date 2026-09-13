@@ -261,7 +261,7 @@ window.games = [
         image: "images/My-True-Desire/cover.webp",
         url: "games/My-True-Desire/index.html"
     }
-    }
+    
 
     // Tambahkan game lainnya di sini
 ];
