@@ -242,7 +242,7 @@ window.games = [
 
     },
     {
-        name: "Sinful Valley",
+        name: "Sinful Valley", 
         date: "2026-08-31",
         image: "images/Sinful-Valley/cover.webp",
         url: "games/Sinful-Valley/index.html"
@@ -253,6 +253,14 @@ window.games = [
         date: "2026-08-22",
         image: "images/Xmas-Hentai-Girlfriends/cover.webp",
         url: "games/Xmas-Hentai-Girlfriends/index.html"
+
+        },
+    {
+        name: "My True Desire",
+        date: "2026-08-24",
+        image: "images/My-True-Desire/cover.webp",
+        url: "games/My-True-Desire/index.html"
+    }
     }
 
     // Tambahkan game lainnya di sini
