@@ -260,7 +260,7 @@ window.games = [
         date: "2026-08-24",
         image: "images/My-True-Desire/cover.webp",
         url: "games/My-True-Desire/index.html"
-    {
+    },
     
 
     // Tambahkan game lainnya di sini
