@@ -254,12 +254,19 @@ window.games = [
         image: "images/Xmas-Hentai-Girlfriends/cover.webp",
         url: "games/Xmas-Hentai-Girlfriends/index.html"
 
-        },
+    },
     {
         name: "My True Desire",
         date: "2026-08-24",
         image: "images/My-True-Desire/cover.webp",
         url: "games/My-True-Desire/index.html"
+
+    },
+    {
+        name: "Zero to Harem Hero",
+        date: "2026-09-17",
+        image: "images/Zero-to-Harem-Hero/cover.webp",
+        url: "games/Zero-to-Harem-Hero/index.html"
     },
     
 
