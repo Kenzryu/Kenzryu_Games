@@ -267,6 +267,13 @@ window.games = [
         date: "2026-09-17",
         image: "images/Zero-to-Harem-Hero/cover.webp",
         url: "games/Zero-to-Harem-Hero/index.html"
+
+    },
+    {
+        name: "Shinobi Lord",
+        date: "2026-09-18",
+        image: "images/Shinobi-Lord/cover.webp",
+        url: "games/Shinobi-Lord/index.html"
     },
     
 
