@@ -281,6 +281,13 @@ window.games = [
         date: "2026-09-19",
         image: "images/Happily-Ever-After/cover.webp",
         url: "games/Happily-Ever-After/index.html"
+
+    },
+    {
+        name: "Luke and Lucy",
+        date: "2026-09-19",
+        image: "images/Luke-and-Lucy/cover.webp",
+        url: "games/Luke-and-Lucy/index.html"
     },
     
 
