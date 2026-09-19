@@ -274,6 +274,13 @@ window.games = [
         date: "2026-09-18",
         image: "images/Shinobi-Lord/cover.webp",
         url: "games/Shinobi-Lord/index.html"
+
+    },
+    {
+        name: "Happily Ever After",
+        date: "2026-09-19",
+        image: "images/Happily-Ever-After/cover.webp",
+        url: "games/Happily-Ever-After/index.html"
     },
     
 
