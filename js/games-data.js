@@ -295,6 +295,13 @@ window.games = [
         date: "2026-09-20",
         image: "images/Provocative-Punishment/cover.webp",
         url: "games/Provocative-Punishment/index.html"
+
+    },
+    {
+        name: "Umichan Two Scoops",
+        date: "2026-09-20",
+        image: "images/Umichan-Two-Scoops/cover.webp",
+        url: "games/Umichan-Two-Scoops/index.html"
     },
     
 
