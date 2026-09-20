@@ -288,6 +288,13 @@ window.games = [
         date: "2026-09-19",
         image: "images/Luke-and-Lucy/cover.webp",
         url: "games/Luke-and-Lucy/index.html"
+
+    },
+    {
+        name: "Provocative Punishment",
+        date: "2026-09-20",
+        image: "images/Provocative-Punishment/cover.webp",
+        url: "games/Provocative-Punishment/index.html"
     },
     
 
