@@ -309,6 +309,13 @@ window.games = [
         date: "2026-09-21",
         image: "images/Hidden-Files/cover.webp",
         url: "games/Hidden-Files/index.html"
+
+    },
+    {
+        name: "NTR FOX Nikkie Mobile",
+        date: "2026-09-21",
+        image: "images/NTR-FOX-Nikkie-Mobile/cover.webp",
+        url: "games/NTR-FOX-Nikkie-Mobile/index.html"
     },
     
 
