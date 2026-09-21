@@ -208,7 +208,7 @@ window.games = [
     },
     {
         name: "Family Mysteries",
-        date: "2026-08-20",
+        date: "2026-09-20",
         image: "images/Family-Mysteries/cover.webp",
         url: "games/Family-Mysteries/index.html"
 
@@ -302,6 +302,13 @@ window.games = [
         date: "2026-09-20",
         image: "images/Umichan-Two-Scoops/cover.webp",
         url: "games/Umichan-Two-Scoops/index.html"
+
+    },
+    {
+        name: "Hidden Files",
+        date: "2026-09-21",
+        image: "images/Hidden-Files/cover.webp",
+        url: "games/Hidden-Files/index.html"
     },
     
 
