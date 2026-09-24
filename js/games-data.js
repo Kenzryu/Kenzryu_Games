@@ -31,7 +31,7 @@ window.games = [
     },
     {
         name: "Living with Chainsaw",
-        date: "2026-07-23",
+        date: "2026-09-20",
         image: "images/Living-with-Chainsaw/cover.webp",
         url: "games/Living-with-Chainsaw/index.html"
     },
@@ -316,6 +316,13 @@ window.games = [
         date: "2026-09-21",
         image: "images/NTR-FOX-Nikkie-Mobile/cover.webp",
         url: "games/NTR-FOX-Nikkie-Mobile/index.html"
+
+    },
+    {
+        name: "When Elves Fall",
+        date: "2026-09-24",
+        image: "images/When-Elves-Fall/cover.webp",
+        url: "games/When-Elves-Fall/index.html"
     },
     
 
