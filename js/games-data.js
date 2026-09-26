@@ -110,7 +110,7 @@ window.games = [
     },
     {
         name: "Training Slayer",
-        date: "2026-08-08",
+        date: "2026-09-25",
         image: "images/Training-Slayer/cover.webp",
         url: "games/Training-Slayer/index.html"
 
