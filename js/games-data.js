@@ -194,7 +194,7 @@ window.games = [
     },
     {
         name: "H-Soul Caller",
-        date: "2026-08-15",
+        date: "2026-09-25",
         image: "images/H-Soul-Caller/cover.webp",
         url: "games/H-Soul-Caller/index.html"
 
