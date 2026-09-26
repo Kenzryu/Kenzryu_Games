@@ -323,6 +323,13 @@ window.games = [
         date: "2026-09-24",
         image: "images/When-Elves-Fall/cover.webp",
         url: "games/When-Elves-Fall/index.html"
+
+    },
+    {
+        name: "Under the Same Roof",
+        date: "2026-09-25",
+        image: "images/Under-the-Same-Roof/cover.webp",
+        url: "games/Under-the-Same-Roof/index.html"
     },
     
 
