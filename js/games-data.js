@@ -138,7 +138,7 @@ window.games = [
          },
     {
         name: "Into the Industry",
-        date: "2026-08-13",
+        date: "2026-09-28",
         image: "images/Into-the-Industry/cover.webp",
         url: "games/Into-the-Industry/index.html"
 
@@ -180,7 +180,7 @@ window.games = [
     },
     {
         name: "Lusty Buccaneers",
-        date: "2026-08-22",
+        date: "2026-09-28",
         image: "images/Lusty-Buccaneers/cover.webp",
         url: "games/Lusty-Buccaneers/index.html"
 
