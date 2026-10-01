@@ -7,7 +7,7 @@ window.games = [
     },
     {
         name: "Cinderella's Glass Collar",
-        date: "2026-08-22",
+        date: "2026-10-01",
         image: "images/Cinderella’s-Glass-Collar/cover.webp",
         url: "games/Cinderella’s Glass Collar/index.html"
     },
@@ -37,7 +37,7 @@ window.games = [
     },
     {
         name: "Lewd Slayer Inn",
-        date: "2026-07-27",
+        date: "2026-10-01",
         image: "images/Lewd-Slayer-Inn/cover.webp",
         url: "games/Lewd-Slayer-Inn/index.html"
     },
@@ -330,6 +330,13 @@ window.games = [
         date: "2026-09-25",
         image: "images/Under-the-Same-Roof/cover.webp",
         url: "games/Under-the-Same-Roof/index.html"
+
+    },
+    {
+        name: "Glory of Holly",
+        date: "2026-10-01",
+        image: "images/Glory-of-Holly/cover.webp",
+        url: "games/Glory-of-Holly/index.html"
     },
     
 
