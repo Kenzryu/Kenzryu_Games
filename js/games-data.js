@@ -337,6 +337,34 @@ window.games = [
         date: "2026-10-01",
         image: "images/Glory-of-Holly/cover.webp",
         url: "games/Glory-of-Holly/index.html"
+
+    },
+    {
+        name: "Lewd Piece",
+        date: "2026-10-03",
+        image: "images/Lewd-Piece/cover.webp",
+        url: "games/Lewd-Piece/index.html"
+
+    },
+    {
+        name: "The Purple House",
+        date: "2026-10-03",
+        image: "images/The-Purple-House/cover.webp",
+        url: "games/The-Purple-House/index.html"
+
+    },
+    {
+        name: "Pokemon: After the League",
+        date: "2026-10-03",
+        image: "images/Pokemon: After the League/cover.webp",
+        url: "games/Pokemon: After the League/index.html"
+
+    },
+    {
+        name: "Forbidden Pass",
+        date: "2026-10-03",
+        image: "images/Forbidden-Pass/cover.webp",
+        url: "games/Forbidden-Pass/index.html"
     },
     
 
