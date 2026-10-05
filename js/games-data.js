@@ -365,6 +365,20 @@ window.games = [
         date: "2026-10-03",
         image: "images/Forbidden-Pass/cover.webp",
         url: "games/Forbidden-Pass/index.html"
+
+    },
+    {
+        name: "PvZ Sex",
+        date: "2026-10-05",
+        image: "images/PvZ-Sex/cover.webp",
+        url: "games/PvZ-Sex/index.html"
+
+    },
+    {
+        name: "Christian Mother",
+        date: "2026-10-05",
+        image: "images/Christian-Mother/cover.webp",
+        url: "games/Christian-Mother/index.html"
     },
     
 
