@@ -379,6 +379,20 @@ window.games = [
         date: "2026-10-05",
         image: "images/Christian-Mother/cover.webp",
         url: "games/Christian-Mother/index.html"
+
+    },
+    {
+        name: "Four Elements Trainer",
+        date: "2026-10-06",
+        image: "images/Four-Elements-Trainer/cover.webp",
+        url: "games/Four-Elements-Trainer/index.html"
+
+    },
+    {
+        name: "Four Elements Trainer",
+        date: "2026-10-06",
+        image: "images/Not-That-Stream/cover.webp",
+        url: "games/Not-That-Stream/index.html"
     },
     
 
