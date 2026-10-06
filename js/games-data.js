@@ -389,7 +389,7 @@ window.games = [
 
     },
     {
-        name: "Four Elements Trainer",
+        name: "Not That Stream",
         date: "2026-10-06",
         image: "images/Not-That-Stream/cover.webp",
         url: "games/Not-That-Stream/index.html"
