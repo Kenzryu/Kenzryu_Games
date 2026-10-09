@@ -1,7 +1,7 @@
 window.games = [
     {
         name: "Lustful Sin",
-        date: "2026-08-08",
+        date: "2026-10-10",
         image: "images/lustful-sin/cover.webp",
         url: "games/lustful-sin/index.html"
     },
@@ -96,7 +96,7 @@ window.games = [
     },
     {
         name: "Path of Desire",
-        date: "2026-07-30",
+        date: "2026-10-10",
         image: "images/Path-of-Desire/cover.webp",
         url: "games/Path-of-Desire/index.html"
 
