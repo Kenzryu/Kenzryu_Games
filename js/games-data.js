@@ -306,7 +306,7 @@ window.games = [
     },
     {
         name: "Hidden Files",
-        date: "2026-09-21",
+        date: "2026-10-10",
         image: "images/Hidden-Files/cover.webp",
         url: "games/Hidden-Files/index.html"
 
