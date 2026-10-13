@@ -159,7 +159,7 @@ window.games = [
     },
     {
         name: "A Ninja’s Return",
-        date: "2026-08-17",
+        date: "2026-10-13",
         image: "images/A-Ninja’s-Return/cover.webp",
         url: "games/A-Ninja’s-Return/index.html"
 
@@ -180,7 +180,7 @@ window.games = [
     },
     {
         name: "Lusty Buccaneers",
-        date: "2026-09-28",
+        date: "2026-10-13",
         image: "images/Lusty-Buccaneers/cover.webp",
         url: "games/Lusty-Buccaneers/index.html"
 
@@ -393,6 +393,13 @@ window.games = [
         date: "2026-10-06",
         image: "images/Not-That-Stream/cover.webp",
         url: "games/Not-That-Stream/index.html"
+
+    },
+    {
+        name: "New World Paradise",
+        date: "2026-10-13",
+        image: "images/New-World-Paradise/cover.webp",
+        url: "games/New-World-Paradise/index.html"
     },
     
 
