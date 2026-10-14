@@ -110,7 +110,7 @@ window.games = [
     },
     {
         name: "Training Slayer",
-        date: "2026-09-25",
+        date: "2026-10-15",
         image: "images/Training-Slayer/cover.webp",
         url: "games/Training-Slayer/index.html"
 
@@ -400,6 +400,15 @@ window.games = [
         date: "2026-10-13",
         image: "images/New-World-Paradise/cover.webp",
         url: "games/New-World-Paradise/index.html"
+
+    },
+    {
+        name: "Adult Learner",
+        date: "2026-10-15",
+        image: "images/Adult-Learner/cover.webp",
+        url: "games/Adult-Learner/index.html"
+
+        
     },
     
 
