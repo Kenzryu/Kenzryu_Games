@@ -117,7 +117,7 @@ window.games = [
     },
     {
         name: "Jujutsu Trainer",
-        date: "2026-08-19",
+        date: "2026-10-15",
         image: "images/Jujutsu-Trainer/cover.webp",
         url: "games/Jujutsu-Trainer/index.html"
 
