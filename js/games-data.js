@@ -124,7 +124,7 @@ window.games = [
     },
     {
         name: "Summertime Saga",
-        date: "2026-08-11",
+        date: "2026-10-20",
         image: "images/Summertime-Saga/cover.webp",
         url: "games/Summertime-Saga/index.html"
 
@@ -327,7 +327,7 @@ window.games = [
     },
     {
         name: "Under the Same Roof",
-        date: "2026-09-25",
+        date: "2026-10-20",
         image: "images/Under-the-Same-Roof/cover.webp",
         url: "games/Under-the-Same-Roof/index.html"
 
@@ -407,6 +407,13 @@ window.games = [
         date: "2026-10-15",
         image: "images/Adult-Learner/cover.webp",
         url: "games/Adult-Learner/index.html"
+
+    },
+    {
+        name: "My Netorase Delusions",
+        date: "2026-10-20",
+        image: "images/My-Netorase-Delusions/cover.webp",
+        url: "games/My-Netorase-Delusions/index.html"
 
         
     },
