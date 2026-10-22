@@ -7,7 +7,7 @@ window.games = [
     },
     {
         name: "Cinderella's Glass Collar",
-        date: "2026-10-01",
+        date: "2026-10-22",
         image: "images/Cinderella’s-Glass-Collar/cover.webp",
         url: "games/Cinderella’s Glass Collar/index.html"
     },
@@ -414,6 +414,27 @@ window.games = [
         date: "2026-10-20",
         image: "images/My-Netorase-Delusions/cover.webp",
         url: "games/My-Netorase-Delusions/index.html"
+
+    },
+    {
+        name: "Demon Slayer Love and Lust",
+        date: "2026-10-22",
+        image: "images/Demon-Slayer-Love-and-Lust/cover.webp",
+        url: "games/Demon-Slayer-Love-and-Lust/index.html"
+
+    },
+    {
+        name: "Corrupting Joy: 365 Days",
+        date: "2026-10-22",
+        image: "images/Corrupting Joy: 365 Days/cover.webp",
+        url: "games/Corrupting Joy: 365 Days/index.html"
+
+    },
+    {
+        name: "Backshot Survivors",
+        date: "2026-10-22",
+        image: "images/Backshot-Survivors/cover.webp",
+        url: "games/Backshot-Survivors/index.html"
 
         
     },
