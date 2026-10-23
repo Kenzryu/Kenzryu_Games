@@ -436,6 +436,13 @@ window.games = [
         image: "images/Backshot-Survivors/cover.webp",
         url: "games/Backshot-Survivors/index.html"
 
+    },
+    {
+        name: "Corrupt My Harem",
+        date: "2026-10-23",
+        image: "images/Corrupt-My-Harem/cover.webp",
+        url: "games/Corrupt-My-Harem/index.html"
+
         
     },
     
