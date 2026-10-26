@@ -13,13 +13,13 @@ window.games = [
     },
     {
         name: "Attack on Survey Corps",
-        date: "2026-08-10",
+        date: "2026-10-26",
         image: "images/Attack-on-Survey-Corps/cover.webp",
         url: "games/Attack-on-Survey-Corps/index.html"
     },
     {
         name: "Living with Alya",
-        date: "2026-08-08",
+        date: "2026-10-26",
         image: "images/Living-with-Alya/cover.webp",
         url: "games/Living-with-Alya/index.html"
     },
@@ -180,7 +180,7 @@ window.games = [
     },
     {
         name: "Lusty Buccaneers",
-        date: "2026-10-13",
+        date: "2026-10-26",
         image: "images/Lusty-Buccaneers/cover.webp",
         url: "games/Lusty-Buccaneers/index.html"
 
