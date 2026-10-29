@@ -34,6 +34,13 @@ window.games = [
 
  },
  {
+ name: "Anime Hot Resort",
+ date: "2026-10-29",
+ image: "images/Anime-Hot-Resort/cover.webp",
+ url: "games/Anime-Hot-Resort/index.html"
+
+ },
+ {
  name: "Another One",
  date: "2026-08-16",
  image: "images/Another-One/cover.webp",
@@ -139,7 +146,7 @@ name: "Distant Vows",
  },
  {
  name: "H-Soul Caller",
- date: "2026-09-25",
+ date: "2026-10-29",
  image: "images/H-Soul-Caller/cover.webp",
  url: "games/H-Soul-Caller/index.html"
 
@@ -227,7 +234,7 @@ date: "2026-08-15",
  },
  {
  name: "Living with Chainsaw",
- date: "2026-09-20",
+ date: "2026-10-29",
  image: "images/Living-with-Chainsaw/cover.webp",
  url: "games/Living-with-Chainsaw/index.html"
  },
