@@ -68,6 +68,13 @@ name: "Aunt’s Secret Desires",
 
  },
  {
+ name: "Being a Wife",
+ date: "2026-11-01",
+ image: "images/Being-a-Wife/cover.webp",
+ url: "games/Being-a-Wife/index.html"
+
+ },
+ {
  name: "Christian Mother",
  date: "2026-10-05",
  image: "images/Christian-Mother/cover.webp",
@@ -278,6 +285,13 @@ date: "2026-08-15",
  image: "images/My-True-Desire/cover.webp",
  url: "games/My-True-Desire/index.html"
 
+ },
+ {
+ name: "Neuro Splice",
+ date: "2026-11-01",
+ image: "images/Neuro-Splice/cover.webp",
+ url: "games/Neuro-Splice/index.html"
+  
 },
  {
  name: "New World Paradise",
