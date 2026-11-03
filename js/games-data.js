@@ -274,7 +274,7 @@ date: "2026-08-15",
  },
  {
  name: "My New Girlfriend",
- date: "2026-07-19",
+ date: "2026-11-03",
  image: "images/My-New-Girlfriend/cover.webp",
  url: "games/My-New-Girlfriend/index.html"
 
