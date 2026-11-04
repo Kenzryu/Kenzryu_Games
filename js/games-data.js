@@ -191,6 +191,13 @@ name: "He’s Just a Friend",
  image: "images/How-I-Fap/cover.webp",
  url: "games/How-I-Fap/index.html"
 
+},
+{
+ name: "Inside The Griffins",
+ date: "2026-11-04",
+ image: "images/Inside-The-Griffins/cover.webp",
+ url: "games/Inside-The-Griffins/index.html"
+
  },
  {
  name: "Into the Industry",
@@ -408,6 +415,13 @@ date: "2026-08-15",
  date: "2026-10-03",
  image: "images/The-Purple-House/cover.webp",
  url: "games/The-Purple-House/index.html"
+
+ },
+{
+ name: "Training the HotWife",
+ date: "2026-11-04",
+ image: "images/Training-the-HotWife/cover.webp",
+ url: "games/Training-the-HotWife/index.html"
 
  },
  {
