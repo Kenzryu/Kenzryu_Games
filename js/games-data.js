@@ -89,7 +89,7 @@ name: "Aunt’s Secret Desires",
  },
  {
  name: "College of Mysteria",
- date: "2026-07-29",
+ date: "2026-11-06",
  image: "images/College-of-Mysteria/cover.webp",
  url: "games/College-of-Mysteria/index.html"
 
@@ -384,7 +384,7 @@ date: "2026-08-15",
  },
  {
  name: "Shinobi Lord",
- date: "2026-09-18",
+ date: "2026-11-06",
  image: "images/Shinobi-Lord/cover.webp",
  url: "games/Shinobi-Lord/index.html"
 
@@ -443,6 +443,13 @@ date: "2026-08-15",
  date: "2026-10-20",
  image: "images/Under-the-Same-Roof/cover.webp",
  url: "games/Under-the-Same-Roof/index.html"
+
+  },
+ {
+ name: "UrbanHeat",
+ date: "2026-11-06",
+ image: "images/UrbanHeat/cover.webp",
+ url: "games/UrbanHeat/index.html"
 
  },
  {
