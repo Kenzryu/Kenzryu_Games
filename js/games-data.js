@@ -174,13 +174,13 @@ name: "Distant Vows",
  },
  {
 name: "He’s Just a Friend",
- date: "2026-11-07",
+ date: "2026-07-17",
  image: "images/He’s-Just-a-Friend/cover.webp",
  url: "games/He’s-Just-a-Friend/index.html"
  },
  {
  name: "Hidden Files",
- date: "2026-10-10",
+ date: "2026-11-07",
  image: "images/Hidden-Files/cover.webp",
  url: "games/Hidden-Files/index.html"
 
