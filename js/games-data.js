@@ -1,7 +1,7 @@
 window.games = [
  {
  name: "A Ninja’s Return",
- date: "2026-10-13",
+ date: "2026-11-07",
  image: "images/A-Ninja’s-Return/cover.webp",
  url: "games/A-Ninja’s-Return/index.html"
 
@@ -174,7 +174,7 @@ name: "Distant Vows",
  },
  {
 name: "He’s Just a Friend",
- date: "2026-07-17",
+ date: "2026-11-07",
  image: "images/He’s-Just-a-Friend/cover.webp",
  url: "games/He’s-Just-a-Friend/index.html"
  },
