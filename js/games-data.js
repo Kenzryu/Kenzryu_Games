@@ -55,7 +55,7 @@ window.games = [
  },
  {
 name: "Aunt’s Secret Desires",
- date: "2026-07-28",
+ date: "2026-11-09",
  image: "images/Aunt’s-Secret-Desires/cover.webp",
  url: "games/Aunt’s-Secret-Desires/index.html"
 
@@ -65,6 +65,13 @@ name: "Aunt’s Secret Desires",
  date: "2026-10-22",
  image: "images/Backshot-Survivors/cover.webp",
  url: "games/Backshot-Survivors/index.html"
+
+  },
+ {
+ name: "BBC: Breaking News",
+ date: "2026-11-09",
+ image: "images/BBC: Breaking News/cover.webp",
+ url: "games/BBC: Breaking News/index.html"
 
  },
  {
@@ -201,7 +208,7 @@ name: "He’s Just a Friend",
  },
  {
  name: "Into the Industry",
- date: "2026-09-28",
+ date: "2026-11-09",
  image: "images/Into-the-Industry/cover.webp",
  url: "games/Into-the-Industry/index.html"
 
@@ -270,6 +277,13 @@ date: "2026-08-15",
  date: "2026-10-26",
  image: "images/Lusty-Buccaneers/cover.webp",
  url: "games/Lusty-Buccaneers/index.html"
+  
+ },
+ {
+ name: "Mile High Club",
+ date: "2026-11-09",
+ image: "images/Mile-High-Club/cover.webp",
+ url: "games/Mile-High-Club/index.html"
 
  },
  {
