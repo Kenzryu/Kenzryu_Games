@@ -118,7 +118,7 @@ name: "Aunt’s Secret Desires",
  },
  {
  name: "Demon Slayer Love and Lust",
- date: "2026-10-22",
+ date: "2026-11-13",
  image: "images/Demon-Slayer-Love-and-Lust/cover.webp",
  url: "games/Demon-Slayer-Love-and-Lust/index.html"
 
@@ -284,6 +284,13 @@ date: "2026-08-15",
  date: "2026-11-09",
  image: "images/Mile-High-Club/cover.webp",
  url: "games/Mile-High-Club/index.html"
+
+ },
+ {
+ name: "My Life Among Yokai",
+ date: "2026-11-13",
+ image: "images/My-Life-Among-Yokai/cover.webp",
+ url: "games/My-Life-Among-Yokai/index.html"
 
  },
  {
