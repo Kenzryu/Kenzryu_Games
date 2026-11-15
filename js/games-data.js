@@ -167,7 +167,7 @@ name: "Distant Vows",
  },
  {
  name: "Happily Ever After",
- date: "2026-09-19",
+ date: "2026-11-15",
  image: "images/Happily-Ever-After/cover.webp",
  url: "games/Happily-Ever-After/index.html"
 
@@ -191,6 +191,14 @@ name: "He’s Just a Friend",
  image: "images/Hidden-Files/cover.webp",
  url: "games/Hidden-Files/index.html"
 
+ },
+ {
+ name: "House Chores",
+ date: "2026-11-15",
+ image: "images/House-Chores/cover.webp",
+ url: "games/House-Chores/index.html"
+
+  
  },
  {
  name: "How I Fap",
@@ -222,7 +230,7 @@ name: "He’s Just a Friend",
  },
  {
  name: "Jujutsu Trainer",
- date: "2026-10-15",
+ date: "2026-11-15",
  image: "images/Jujutsu-Trainer/cover.webp",
  url: "games/Jujutsu-Trainer/index.html"
 
