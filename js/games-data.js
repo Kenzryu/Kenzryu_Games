@@ -193,6 +193,13 @@ name: "He’s Just a Friend",
 
  },
  {
+ name: "Hokage's Life Remake",
+ date: "2026-11-18",
+ image: "images/Hokage's-Life-Remake/cover.webp",
+ url: "games/Hokage's-Life-Remake/index.html"
+  
+ },
+ {
  name: "House Chores",
  date: "2026-11-15",
  image: "images/House-Chores/cover.webp",
@@ -263,7 +270,7 @@ date: "2026-08-15",
  },
  {
  name: "Living with Chainsaw",
- date: "2026-10-29",
+ date: "2026-11-18",
  image: "images/Living-with-Chainsaw/cover.webp",
  url: "games/Living-with-Chainsaw/index.html"
  },
@@ -358,7 +365,7 @@ date: "2026-08-15",
  },
  {
  name: "Path of Desire",
- date: "2026-10-10",
+ date: "2026-11-18",
  image: "images/Path-of-Desire/cover.webp",
  url: "games/Path-of-Desire/index.html"
 
