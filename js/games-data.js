@@ -49,7 +49,7 @@ window.games = [
  },
  {
  name: "Attack on Survey Corps",
- date: "2026-10-26",
+ date: "2026-11-21",
  image: "images/Attack-on-Survey-Corps/cover.webp",
  url: "games/Attack-on-Survey-Corps/index.html"
  },
@@ -132,7 +132,7 @@ name: "Distant Vows",
  },
  {
  name: "Family Mysteries",
- date: "2026-09-20",
+ date: "2026-11-21",
  image: "images/Family-Mysteries/cover.webp",
  url: "games/Family-Mysteries/index.html"
 
@@ -244,7 +244,7 @@ name: "He’s Just a Friend",
  },
  {
  name: "Lewd Piece",
- date: "2026-10-03",
+ date: "2026-11-21",
  image: "images/Lewd-Piece/cover.webp",
  url: "games/Lewd-Piece/index.html"
 
