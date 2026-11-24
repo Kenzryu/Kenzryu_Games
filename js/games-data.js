@@ -8,7 +8,7 @@ window.games = [
  },
  {
  name: "Academy34",
- date: "2026-07-27",
+ date: "2026-11-24",
  image: "images/Academy34/cover.webp",
  url: "games/Academy34/index.html"
  },
@@ -35,7 +35,7 @@ window.games = [
  },
  {
  name: "Anime Hot Resort",
- date: "2026-10-29",
+ date: "2026-11-24",
  image: "images/Anime-Hot-Resort/cover.webp",
  url: "games/Anime-Hot-Resort/index.html"
 
@@ -476,7 +476,7 @@ date: "2026-08-15",
  },
  {
  name: "Under the Same Roof",
- date: "2026-10-20",
+ date: "2026-11-24",
  image: "images/Under-the-Same-Roof/cover.webp",
  url: "games/Under-the-Same-Roof/index.html"
 
