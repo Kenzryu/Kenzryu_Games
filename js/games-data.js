@@ -111,7 +111,7 @@ name: "Aunt’s Secret Desires",
  },
  {
  name: "Corrupting Joy: 365 Days",
- date: "2026-10-22",
+ date: "2026-11-27",
  image: "images/Corrupting Joy: 365 Days/cover.webp",
  url: "games/Corrupting Joy: 365 Days/index.html"
 
@@ -223,7 +223,7 @@ name: "He’s Just a Friend",
  },
  {
  name: "Into the Industry",
- date: "2026-11-09",
+ date: "2026-11-27",
  image: "images/Into-the-Industry/cover.webp",
  url: "games/Into-the-Industry/index.html"
 
@@ -289,7 +289,7 @@ date: "2026-08-15",
  },
  {
  name: "Lusty Buccaneers",
- date: "2026-10-26",
+ date: "2026-11-27",
  image: "images/Lusty-Buccaneers/cover.webp",
  url: "games/Lusty-Buccaneers/index.html"
   
